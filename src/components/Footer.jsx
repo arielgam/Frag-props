@@ -1,8 +1,4 @@
 import FooterTitle from "./FooterTitle";
-import ListIcon from "./ListIcon";
-import TextFooter from "./TextFooter";
-
-import FooterTitle from "./FooterTitle";
 import Rodape from "./Rodape";
 
 export default function Footer() {
